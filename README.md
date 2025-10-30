@@ -17,9 +17,9 @@
   
 <p align="left">
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,c,cpp,java)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=latex,notion,discord)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql,sql)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,c,cpp)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=latex,notion,discord,figma)](https://skillicons.dev) <br>
 
 </p>
 
@@ -58,8 +58,8 @@
 <p align="left">
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,nodejs,mysql)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,c,cpp,java)](https://skillicons.dev) <br>
-[![My Skills](https://skillicons.dev/icons?i=latex,notion,discord)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=docker,git,github,linux,c,cpp)](https://skillicons.dev) <br>
+[![My Skills](https://skillicons.dev/icons?i=latex,notion,discord,figma)](https://skillicons.dev) <br>
 
 </p>
   ### Some Statistics
