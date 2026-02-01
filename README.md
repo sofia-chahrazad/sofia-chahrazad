@@ -66,11 +66,10 @@
   <table style="border-collapse: collapse; border: 1px solid #A1CDF2;">
     <tr>
       <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-        <img src="https://github-readme-stats.vercel.app/api?username=sofia-chahrazad&hide_title=true&show_icons=true&include_all_commits=true&count_private=true&theme=material-palenight&locale=en&hide_border=true&custom_title=Statistics" width="360" alt="Stats Graph" />
+<img src="https://github-readme-stats-alpha-six-59.vercel.app/api/top-langs?username=sofia-chahrazad&locale=en&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&cache_seconds=86400" width="360" alt="Languages Graph" />
       </td>
       <td align="center" style="padding: 10px; border: 1px solid #A1CDF2;">
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=sofia-chahrazad&locale=fr&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&custom_title=Langages%20les%20plus%20utilisés&hide=jupyter%20notebook&cache_seconds=86400" width="360" />
-      </td>
+<img src="https://github-readme-stats-alpha-six-59.vercel.app/api/top-langs?username=sofia-chahrazad&locale=en&layout=compact&langs_count=6&theme=material-palenight&hide_border=true&custom_title=Most%20Used%20Languages&hide=jupyter%20notebook&cache_seconds=86400" width="360" alt="Languages Graph" />      </td>
     </tr>
   </table>
 </details>
