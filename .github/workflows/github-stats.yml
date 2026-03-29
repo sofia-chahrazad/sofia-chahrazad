@@ -1,4 +1,4 @@
-name: Generate Metrics
+name: Metrics
 
 on:
   schedule:
@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
 
 jobs:
-  metrics:
+  build:
     runs-on: ubuntu-latest
 
     steps:
